@@ -1,0 +1,11 @@
+__pycache__/
+backend/app/data/agents.json
+__init__.pyc
+*.pyc
+.env
+backend/.env
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+.idea/
+.vscode/
